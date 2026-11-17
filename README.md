@@ -90,7 +90,7 @@ cd SoduWork
 
 > SoduWork is in public beta. Try it and tell us what you think, and evaluate it before using it in production.
 
-You need Python 3.12+, Node.js 22.19+ and Git.
+You need Python 3.12+, Node.js 22.19+ and Git. **No development environment? Jump to [Install the desktop client](#quick-start) below, or try the live demo first.**
 
 From the cloned repository, run `sh start.sh --desktop` on macOS/Linux, `.\start.cmd --desktop` in Windows PowerShell, or `start.cmd --desktop` in Command Prompt.
 
