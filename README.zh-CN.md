@@ -90,7 +90,7 @@ cd SoduWork
 
 > SoduWork 处于公开测试阶段，欢迎试用并反馈；用于生产环境前请先充分评估。
 
-准备好 Python 3.12+、Node.js 22.19+ 和 Git，两条命令跑起来：
+准备好 Python 3.12+、Node.js 22.19+ 和 Git，两条命令跑起来。**不想配置开发环境？可直接跳到下方的安装包，或先试在线体验。**
 
 在克隆后的目录里，macOS/Linux 运行 `sh start.sh --desktop`，Windows PowerShell 运行 `.\start.cmd --desktop`，命令提示符运行 `start.cmd --desktop`。
 
